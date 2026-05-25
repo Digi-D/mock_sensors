@@ -1,0 +1,1 @@
+Add the following sensor read `OTS-003,Mediterranean Deep Probe,34.9299,18.8928,1530,2026-05-25T09:00:00Z,14.8,57.0`
