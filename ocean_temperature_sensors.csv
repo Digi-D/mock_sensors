@@ -1,0 +1,16 @@
+sensor_id,sensor_name,latitude,longitude,depth_meters,timestamp,temperature_celsius,temperature_fahrenheit
+OTS-001,Atlantic Ridge Sensor,25.3548,-71.2891,1200,2026-05-25T08:00:00Z,8.3,46.9
+OTS-001,Atlantic Ridge Sensor,25.3548,-71.2891,1200,2026-05-25T12:00:00Z,8.5,47.3
+OTS-001,Atlantic Ridge Sensor,25.3548,-71.2891,1200,2026-05-25T16:00:00Z,8.2,46.8
+OTS-002,Pacific Trench Monitor,-10.3521,142.5919,3800,2026-05-25T08:00:00Z,2.1,35.8
+OTS-002,Pacific Trench Monitor,-10.3521,142.5919,3800,2026-05-25T12:00:00Z,2.0,35.6
+OTS-002,Pacific Trench Monitor,-10.3521,142.5919,3800,2026-05-25T16:00:00Z,2.2,36.0
+OTS-003,Mediterranean Deep Probe,34.9299,18.8928,1530,2026-05-25T08:00:00Z,12.8,55.0
+OTS-003,Mediterranean Deep Probe,34.9299,18.8928,1530,2026-05-25T12:00:00Z,13.1,55.6
+OTS-003,Mediterranean Deep Probe,34.9299,18.8928,1530,2026-05-25T16:00:00Z,12.9,55.2
+OTS-004,Indian Ocean Equatorial Sensor,-0.1892,73.4567,800,2026-05-25T08:00:00Z,15.6,60.1
+OTS-004,Indian Ocean Equatorial Sensor,-0.1892,73.4567,800,2026-05-25T12:00:00Z,16.2,61.2
+OTS-004,Indian Ocean Equatorial Sensor,-0.1892,73.4567,800,2026-05-25T16:00:00Z,15.9,60.6
+OTS-005,Arctic Region Temperature Logger,78.2232,15.6267,400,2026-05-25T08:00:00Z,0.5,32.9
+OTS-005,Arctic Region Temperature Logger,78.2232,15.6267,400,2026-05-25T12:00:00Z,1.2,34.2
+OTS-005,Arctic Region Temperature Logger,78.2232,15.6267,400,2026-05-25T16:00:00Z,0.8,33.4
